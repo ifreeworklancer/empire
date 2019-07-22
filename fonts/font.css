@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'ProximaNovaExCn';
+    src: url('ProximaNovaExCn-Bold.woff2') format('woff2'),
+        url('ProximaNovaExCn-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaExCn';
+    src: url('ProximaNovaExCn-Regular.woff2') format('woff2'),
+        url('ProximaNovaExCn-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTNorms';
+    src: url('TTNorms-Bold.woff2') format('woff2'),
+        url('TTNorms-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTNorms';
+    src: url('TTNorms-Regular.woff2') format('woff2'),
+        url('TTNorms-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTNorms';
+    src: url('TTNorms-Italic.woff2') format('woff2'),
+        url('TTNorms-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
